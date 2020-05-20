@@ -1,0 +1,96 @@
+{
+	"type" : "POI",
+	"Building" : "MiddleSex",
+	"Map" : 1,
+	"Name" : "Room 10",
+	"POIType" : "n",
+	"Visible" : false,
+	"Number" : 10,
+	"XValue" : 300.4,
+	"YValue" : 100.5,
+	"Description" : "This is a man's washroom!"
+}
+{
+	"type" : "POI",
+	"Building" : "MiddleSex",
+	"Map" : 1,
+	"Name" : "WORKING",
+	"POIType" : "n",
+	"Visible" : false,
+	"Number" : 11,
+	"XValue" : 50.4,
+	"YValue" : 50.5,
+	"Description" : "This is a Woman's washroom!"
+}
+{
+	"type" : "POI",
+	"Building" : "MiddleSex",
+	"Map" : 1,
+	"Name" : "WORKING",
+	"POIType" : "e",
+	"Visible" : false,
+	"Number" : 11,
+	"XValue" : 200.4,
+	"YValue" : 200.5,
+	"Description" : "This is a Woman's washroom!"
+}
+{
+	"type" : "POI",
+	"Building" : "MiddleSex",
+	"Map" : 1,
+	"Name" : "WORKING",
+	"POIType" : "w",
+	"Visible" : false,
+	"Number" : 11,
+	"XValue" : 200.4,
+	"YValue" : 250.5,
+	"Description" : "This is a Woman's washroom!"
+}
+{
+	"type" : "POI",
+	"Building" : "MiddleSex",
+	"Map" : 1,
+	"Name" : "WORKING",
+	"POIType" : "a",
+	"Visible" : false,
+	"Number" : 11,
+	"XValue" : 200.4,
+	"YValue" : 300.5,
+	"Description" : "This is a Woman's washroom!"
+}
+{
+	"type" : "POI",
+	"Building" : "MiddleSex",
+	"Map" : 1,
+	"Name" : "NEwPOi",
+	"POIType" : "a",
+	"Visible" : false,
+	"Number" : 144,
+	"XValue" : 1243.0,
+	"YValue" : 178.0,
+	"Description" : "Very cool Working!"
+}
+{
+	"type" : "POI",
+	"Building" : "MiddleSex",
+	"Map" : 1,
+	"Name" : "Cool",
+	"POIType" : "n",
+	"Visible" : false,
+	"Number" : 69,
+	"XValue" : 1272.0,
+	"YValue" : 313.0,
+	"Description" : "Very cool! working well :D"
+}
+{
+	"type" : "POI",
+	"Building" : "MiddleSex",
+	"Map" : 2,
+	"Name" : "WORKING",
+	"POIType" : "a",
+	"Visible" : false,
+	"Number" : 11,
+	"XValue" : 200.4,
+	"YValue" : 300.5,
+	"Description" : "This is a Woman's washroom!"
+}

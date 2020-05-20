@@ -1,0 +1,27 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://repo.csd.uwo.ca" />
+          <option name="userName" value="snikpou2" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://repo.csd.uwo.ca/scm/compsci2212_f2019/team7.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="C:\Users\Shabnam\IdeaProjects" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
+  </component>
+</application>

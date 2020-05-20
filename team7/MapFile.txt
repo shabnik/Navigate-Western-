@@ -1,0 +1,99 @@
+{
+	"type" : "Map",
+	"Building" : "MiddleSex",
+	"Floor" : 0,
+	"MapImage" : "MC-BF-1.png",
+	"Width" : 899,
+	"Height" : 610,
+	"Visibility" : true
+}
+{
+	"type" : "Map",
+	"Building" : "MiddleSex",
+	"Floor" : 1,
+	"MapImage" : "MC-BF-2.png",
+	"Width" : 899,
+	"Height" : 610,
+	"Visibility" : true
+}
+{
+	"type" : "Map",
+	"Building" : "MiddleSex",
+	"Floor" : 2,
+	"MapImage" : "MC-BF-3.png",
+	"Width" : 899,
+	"Height" : 610,
+	"Visibility" : true
+}
+{
+	"type" : "Map",
+	"Building" : "MiddleSex",
+	"Floor" : 3,
+	"MapImage" : "MC-BF-4.png",
+	"Width" : 899,
+	"Height" : 610,
+	"Visibility" : true
+}
+{
+	"type" : "Map",
+	"Building" : "NaturalScience",
+	"Floor" : 0,
+	"MapImage" : "NSC-BF-1.png",
+	"Width" : 899,
+	"Height" : 610,
+	"Visibility" : true
+}
+{
+	"type" : "Map",
+	"Building" : "NaturalScience",
+	"Floor" : 1,
+	"MapImage" : "NSC-BF-2.png",
+	"Width" : 899,
+	"Height" : 610,
+	"Visibility" : true
+}
+{
+	"type" : "Map",
+	"Building" : "NaturalScience",
+	"Floor" : 2,
+	"MapImage" : "NSC-BF-3.png",
+	"Width" : 899,
+	"Height" : 610,
+	"Visibility" : true
+}
+{
+	"type" : "Map",
+	"Building" : "NaturalScience",
+	"Floor" : 80,
+	"MapImage" : "MC-BF-1.png",
+	"Width" : 899,
+	"Height" : 610,
+	"Visibility" : true
+}
+{
+	"type" : "Map",
+	"Building" : "AlumniHall",
+	"Floor" : 0,
+	"MapImage" : "AH-BF-1.png",
+	"Width" : 899,
+	"Height" : 610,
+	"Visibility" : true
+}
+{
+	"type" : "Map",
+	"Building" : "AlumniHall",
+	"Floor" : 1,
+	"MapImage" : "AH-BF-2.png",
+	"Width" : 899,
+	"Height" : 610,
+	"Visibility" : true
+}
+{
+	"type" : "Map",
+	"Building" : "AlumniHall",
+	"Floor" : 2,
+	"MapImage" : "AH-BF-3.png",
+	"Width" : 899,
+	"Height" : 610,
+	"Visibility" : true
+}

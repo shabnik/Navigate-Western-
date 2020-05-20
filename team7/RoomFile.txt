@@ -1,0 +1,132 @@
+{
+	"type" : "Room",
+	"Building" : "MiddleSex",
+	"Map" : 0,
+	"Name" : "102A",
+	"Alias" : "MC102A",
+	"Number" : 102,
+	"XValue" : 159.0,
+	"YValue" : 407.0,
+	"Description" : "gay",
+	"FaveStatus" : true
+}
+{
+	"type" : "Room",
+	"Building" : "MiddleSex",
+	"Map" : 0,
+	"Name" : "MC105A",
+	"Alias" : "105A",
+	"Number" : 105,
+	"XValue" : 154.0,
+	"YValue" : 425.0,
+	"Description" : "gay",
+	"FaveStatus" : true
+}
+{
+	"type" : "Room",
+	"Building" : "MiddleSex",
+	"Map" : 1,
+	"Name" : "Room 14",
+	"Alias" : "Computer Lab",
+	"Number" : 14,
+	"XValue" : 101.4,
+	"YValue" : 104.5,
+	"Description" : "This is a very cool room!",
+	"FaveStatus" : true
+}
+{
+	"type" : "Room",
+	"Building" : "MiddleSex",
+	"Map" : 1,
+	"Name" : "Room 10",
+	"Alias" : "Computer Lab",
+	"Number" : 16,
+	"XValue" : 105.4,
+	"YValue" : 108.5,
+	"Description" : "This is a lame room!",
+	"FaveStatus" : true
+}
+{
+	"type" : "Room",
+	"Building" : "MiddleSex",
+	"Map" : 1,
+	"Name" : "Classroom",
+	"Alias" : "Big Class",
+	"Number" : 116,
+	"XValue" : 837.0,
+	"YValue" : 304.0,
+	"Description" : "Colnm",
+	"FaveStatus" : false
+}
+{
+	"type" : "Room",
+	"Building" : "MiddleSex",
+	"Map" : 1,
+	"Name" : "MC205",
+	"Alias" : "MC205",
+	"Number" : 205,
+	"XValue" : 373.0,
+	"YValue" : 339.0,
+	"Description" : "MC205",
+	"FaveStatus" : true
+}
+{
+	"type" : "Room",
+	"Building" : "MiddleSex",
+	"Map" : 1,
+	"Name" : "MC105A",
+	"Alias" : "math room",
+	"Number" : 105,
+	"XValue" : 172.0,
+	"YValue" : 532.0,
+	"Description" : "math undergrad room",
+	"FaveStatus" : true
+}
+{
+	"type" : "Room",
+	"Building" : "MiddleSex",
+	"Map" : 1,
+	"Name" : "107",
+	"Alias" : "funtimes",
+	"Number" : 107,
+	"XValue" : 447.0,
+	"YValue" : 308.0,
+	"Description" : "a very fun room",
+	"FaveStatus" : true
+}
+{
+	"type" : "Room",
+	"Building" : "MiddleSex",
+	"Map" : 1,
+	"Name" : "Room106",
+	"Alias" : "rm106",
+	"Number" : 106,
+	"XValue" : 359.0,
+	"YValue" : 346.0,
+	"Description" : "a great great room",
+	"FaveStatus" : true
+}
+{
+	"type" : "Room",
+	"Building" : "MiddleSex",
+	"Map" : 2,
+	"Name" : "room230",
+	"Alias" : "rm230",
+	"Number" : 230,
+	"XValue" : 148.0,
+	"YValue" : 480.0,
+	"Description" : "fun fun",
+	"FaveStatus" : false
+}
+{
+	"type" : "Room",
+	"Building" : "MiddleSex",
+	"Map" : 3,
+	"Name" : "room344",
+	"Alias" : "rm344",
+	"Number" : 344,
+	"XValue" : 684.0,
+	"YValue" : 188.0,
+	"Description" : "cool",
+	"FaveStatus" : false
+}

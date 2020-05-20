@@ -1,0 +1,12 @@
+{
+	"type" : "Building",
+	"Name" : "MiddleSex"
+}
+{
+	"type" : "Building",
+	"Name" : "NaturalScience"
+}
+{
+	"type" : "Building",
+	"Name" : "AlumniHall"
+}
